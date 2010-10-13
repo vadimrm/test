@@ -4,7 +4,7 @@ const wchar_t* ProgramTitle = L"Dichotic Harmony Files Converter";
 const wchar_t* ProgramCopyright = L"Copyright (c) 2010 Vadim Madgazin";
 const wchar_t* VER_NUM = L"1.00";
 
-// верси€ от 4 окт€бр€ 2010 г.
+// верси€ от 2010 г.
 
 int midi_tracks_number = 4;
 
