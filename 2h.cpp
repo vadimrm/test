@@ -7,10 +7,6 @@ const wchar_t* VER_NUM = L"1.01"; // верси€ от 12 окт€бр€ 2010 г.
 void main(int argc, char **argv)
 {
 
-  wstring2 infilew = argv[1]; // им€ входного файла
-  wstring2 outfilew = infilew + L".mid"; // им€ выходного файла
-
-
   // читаем daccords файл
   DaccordsFile dfile;
   if ( !dfile.Read(infilew) )
