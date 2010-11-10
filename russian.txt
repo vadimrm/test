@@ -1,0 +1,8 @@
+Code page 1251
+
+russian русский
+
+
+Code page 866
+
+russian агббЄЁ©
